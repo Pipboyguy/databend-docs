@@ -392,7 +392,7 @@ id|city       |score|country|
 
 ## client implementations
 
-The official client [bendsql](https://github.com/datafuselabs/bendsql) is mainly base on HTTP handler.
+The official client [bendsql](https://github.com/datafuselabs/bendsql) is mainly based on HTTP handler.
 
 The most simple example of http handler client implementation is in [sqllogictest](https://github.com/datafuselabs/databend/blob/main/tests/sqllogictests/src/client/http_client.rs) for databend.
 
